@@ -28,7 +28,3 @@ Raw `facebook_ads.csv` is uploaded to the `bronze` container in Azure Blob Stora
 - Aggregated metrics like total clicks, impressions, spend, CTR, and CPC are calculated
 - Results are written to the `gold` container as `summary_ads.csv`
 
----
-
-## 📁 Folder Structure
-
